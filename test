@@ -1,1 +1,50 @@
+<<<<<<< HEAD
 zyjjfm   你要努力学习   加油   PKU
+=======
+ckage collection;
+/*
+ * hashset存储自定义对象，引出hash表
+  *
+ 
+   /*
+      坚定自己的理想
+      */
+
+      import java.util.*;
+      public class CollectionDemo {
+      	public static void main(String[] args) {
+			method();
+					
+						}
+						    private static void method(){
+						        	int a=2;		    	int b=4;
+									    	System.out,println(a+b);
+										    	
+											    }
+											    	private static void method() {
+														// TODO Auto-generated method stub
+																HashSet hr = new  HashSet();
+																		hr.add("12356");
+																				hr.add("568965");
+																						hr.add("zyjjfm"); 
+																								hr.add("989765");
+																								
+																								
+																								hr.add("23256");
+																							hr.add("1dsdd356");
+																														Iterator it =  hr.iterator();
+																																	while(it.hasNext()){
+																																					System.out.println(it.next());
+																																									
+																																													
+																																																}
+																																																	
+																																																		
+																																																			
+																																																				}
+
+																																																			
+
+
+
+>>>>>>> e35e90a9af1431140653d3b64fab11fcc1acc80f
